@@ -1,0 +1,5 @@
+metric,value
+total_records,8040
+parse_errors,1975
+api_errors,15
+unique_models,3

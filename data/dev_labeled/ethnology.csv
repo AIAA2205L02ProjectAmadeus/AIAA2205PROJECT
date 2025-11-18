@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+我国共有多少个少数民族,50,56,55,51,C,Q,Quantitative/我国共有55个少数民族,Quantitative
+赶年是（）的传统节日,土家族,苗族,侗族,瑶族,A,C,Commonsense/中国传统节日之一,Commonsense
+下列民族中哪个民族是新中国成立后更改族称的,保安族,普米族,基诺族,德昂族,D,C,Commonsense/满族,Commonsense
+民族发展的决定性因素是,社会生产力的发展,阶级斗争,经济发展,民族精神,A,C,Commonsense/社会发展与文化背景,Commonsense
+“抓饭”是（）的特色饮食,藏族,维吾尔族,苗族,朝鲜族,B,C,Commonsense/源自中亚和中国西部地区的一种传统美食,Commonsense

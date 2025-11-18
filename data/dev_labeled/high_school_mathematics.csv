@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+从6位同学中任意选出4位参加公益活动，不同的选法共有,30种,6种,10种 ,15种 ,D,Q,Quantitative/组合数学问题,Quantitative
+在等差数列中已知a5=5 ，a20=63则a11+a14=,68,70,80,58,A,Q,Quantitative/等差数列求和,Quantitative
+已知⼀个等差数列的⾸项为1，公差为3，那么该数列的前5项和为,10,35,30,20,B,Q,Quantitative/求和计算,Quantitative
+从6位同学中任意选出4位参加公益活动，不同的选发有,10种,30种,15种,6种,C,Q,Quantitative/组合数学问题,Quantitative
+若直线x+y+m=0与圆x^2+y^2=m相切，则m=,0或2,无解,2,sqrt{2},C,Q,Quantitative/圆的半径与直线的距离相等,Quantitative

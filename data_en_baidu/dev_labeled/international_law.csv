@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,The international reserves known as' paper gold 'are,'Scarce Currency',euro,special drawing rights,pound sterling,C,L,Logical,
+1,"In current Western countries, the most numerous form of company is",Infinite Company,Two joint companies,"Co., Ltd.",limited company,C,Q,Quantitative,
+2,"According to mainland law, the agency arising from my own intention is",Designated agent,Legal representation,Designated Agent,Designated Agent and Designated Agent,A,L,Logical,
+3,"In civil law countries, direct agents are referred to as",Civil agent,Commercial agent,Disciplinary personnel,legal representative,B,C,Commonsense,
+4,The nationality of an aircraft refers to,Nationality of the country where the aircraft is registered,The nationality of the captain,Nationality of the owner of the aircraft,Nationality of aircraft lessee,A,C,Commonsense,

@@ -9,9 +9,8 @@ from prompts import get_prompt
 # --- 配置 ---
 MODELS_TO_TEST = [
     "Qwen/Qwen2-7B-Instruct",
-    # "deepseek-ai/deepseek-coder-6.7b-instruct",
-    # "meta-llama/Llama-2-13b-chat-hf",
-    # "Qwen/Qwen-72B-Chat" # 如果可用
+    "THUDM/GLM-4-9B-0414",
+    "deepseek-ai/DeepSeek-V2.5",
 ]
 
 STRATEGIES_TO_TEST = [

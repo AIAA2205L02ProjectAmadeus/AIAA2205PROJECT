@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,The objects of exercise prescription are,anyone,Those engaged in physical exercise,disabled person,professional player,B,C,Commonsense,
+1,The principle of pre-treatment for acute injury is,Prevent swelling,hot compress,braking,hemostasis,B,C,Commonsense,
+2,The muscles of the knee joint do not include,gastrocnemius,"Half tendon, half membrane muscle",biceps femoris,quadriceps femoris,D,L,Logical,
+3,The core part of the annual training cycle is,Adaptation period,transition period,Preparation period,During the competition period,D,C,Commonsense,
+4,The use of rubber ropes as crossbars during high jump training belongs to,Representation method,Difficult Method,Difficulty Reduction Method,Mindfulness method,C,L,Logical,

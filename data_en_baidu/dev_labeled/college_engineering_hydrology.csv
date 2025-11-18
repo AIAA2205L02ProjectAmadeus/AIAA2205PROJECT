@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,The cross-sectional area of the waterway includes (),Large cross-section,Cross section area and stagnant water area,Dead water area,Cross-sectional area of water passage,B,Q,Quantitative,
+1,The reclamation of farmland by enclosing and filling lakes in the watershed will cause evaporation of the watershed.,unchanged,increase,Difficult to be certain,reduce,D,Q,Quantitative,
+2,The accuracy of water level observation is generally accurate to (),0.01m,0.lm,1m,0.001m,A,Q,Quantitative,
+3,"Using the float method to measure flow, the cross-sectional flow rate is equal to the cross-sectional flow rate multiplied by ()",wind speed,roughness coefficient,Buoy coefficient,water level,C,Q,Quantitative,
+4,"In general, the dew point temperature at a certain location will be higher than the local temperature at that time.",tall,low,equal,High or equal,B,L,Logical,

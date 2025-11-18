@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,"Choose 4 students from 6 randomly to participate in public welfare activities, with different selection methods available",30 types,6 types,10 types,15 types,D,Q,Quantitative,
+1,"If a5=5 and a20=63 in an arithmetic sequence, then a11+a14=",sixty-eight,seventy,eighty,fifty-eight,A,Q,Quantitative,
+2,"Given that the ⾸ term of an arithmetic sequence is 1 and the tolerance is 3, then the sum of the first 5 terms of the sequence is",ten,thirty-five,thirty,twenty,B,Q,Quantitative,
+3,"Choose 4 out of 6 students to participate in public welfare activities, with different options available",10 types,30 types,15 types,6 types,C,Q,Quantitative,
+4,"If the straight line x+y+m=0 is tangent to the circle x ^ 2+y ^ 2=m, then m=",0 or 2,no solution,two,sqrt{2},C,Q,Quantitative,

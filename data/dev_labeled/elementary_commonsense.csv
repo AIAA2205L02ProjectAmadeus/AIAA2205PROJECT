@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+我们经常吃的洋葱是植物的哪一部分,茎,叶,根 ,果实,A,C,Commonsense/根茎类蔬菜,Commonsense
+世界上地势最低的国家是,土耳其,意大利,荷兰 ,波兰,C,Q,Commonsense/海平面国家,Quantitative
+有“绿城” 之称的是,郑州,贵州,昆明,海口,A,C,Commonsense/中国的杭州市,Commonsense
+世界上产玉米最多的国家是,法国,俄罗撕,中国,美国,D,Q,Quantitative/与玉米产量相关的数据分析,Quantitative
+交通事故报警电话号码是,110,119,120,122,D,C,Commonsense/110,Commonsense

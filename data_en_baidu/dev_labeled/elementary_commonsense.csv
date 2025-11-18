@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,Which part of the plant is the onion we often eat,stem,leaf,root,fruit,A,C,Commonsense,
+1,The country with the lowest terrain in the world is,Türkiye,Italy,Netherlands,Poland,C,Q,Quantitative,
+2,What is known as the 'Green City',Zhengzhou,Guizhou,Kunming,Haikou,A,C,Commonsense,
+3,What is the country with the highest corn production in the world,France,Russian tear,China,the United States,D,Q,Quantitative,
+4,What is the phone number for traffic accident reporting,one hundred and ten,one hundred and nineteen,one hundred and twenty,one hundred and twenty-two,D,C,Commonsense,

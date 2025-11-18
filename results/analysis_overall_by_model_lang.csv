@@ -1,0 +1,3 @@
+﻿model,language,total_samples,accuracy,self_judgment_agreement
+Qwen/Qwen2-7B-Instruct,en,1340,0.5126865671641792,0.5514925373134328
+Qwen/Qwen2-7B-Instruct,zh,1340,0.7388059701492538,0.7671641791044777

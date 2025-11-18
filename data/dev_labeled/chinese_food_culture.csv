@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+孔府菜的代表名菜有,诗礼银杏,扒大乌参,黄焖鱼翅,清汤燕窝,A,C,Commonsense/孔府菜是中国传统官府菜系之一，代表名菜包括诗礼银杏、一品锅、怀抱福禄全、怀抱鲤鱼等。,Commonsense
+下列不属于淮扬菜的是,三套鸭,叫花鸡,虾仁锅巴,炸蛎黄,D,C,Commonsense/举例具体菜肴名称,Commonsense
+称奶食为“白食”，肉食为“红食”的是,壮族,傣族,回族,蒙古族,D,C,Commonsense/中国饮食文化中的传统分类,Commonsense
+“割不正不食”观念的提出者是,墨子,孔子,孟子,老子,B,C,Commonsense,Commonsense
+我国南方地区流行吃青团的节日是,中秋节,春节,腊八节,清明节,D,C,Commonsense/清明节,Commonsense

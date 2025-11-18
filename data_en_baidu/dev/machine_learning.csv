@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer
+0,SVM performs poorly in the following situations,None of the above,Linearly separable data,Cleaned data,Noisy data and overlapping data points,D
+1,The process of identifying a person's name or organizational name from a given sentence or paragraph is called,Named Entity Recognition,Stemming extraction,New word discovery,sentiment analysis,A
+2,How many 3-gram phrases can be generated without preprocessing based on the segmentation result of 'Beijing is the capital of China',four,three,five,two,B
+3,"In statistical pattern classification problems, when the prior probability is unknown, one can use",Minimum misjudgment probability criterion,Minimum Maximum Loss Criterion,N-P judgment,Minimum loss criterion,B
+4,Please select the options below to apply Hidden Markov Model (HMM),All of the above,Gene sequence dataset,Stock market dataset,Movie browsing dataset,A

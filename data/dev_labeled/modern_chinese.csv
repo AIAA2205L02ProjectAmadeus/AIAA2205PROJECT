@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+声调的基本性质决定于,音高,音色,音长,音强,A,L,Logical: 与物理属性相关的关系和因果链。,Logical
+汉语音节是,元音和辅音各占一半,辅音较少，元音占绝对优势,辅音较多，元音较少,没有辅音,B,L,Logical,Logical
+“员、祖、乡、分、妊、严”中包含的自由语素是,乡、分、严,祖、分、严,祖、乡、分,员、分、妊,A,L,Logical,Logical
+在下面重叠的例子中，表示“适度、适中”意义的是,白白的,坐坐,客客气气的 ,散散步,A,C,Commonsense/表示适度、适中的概念在不同情境下可能有不同的表达，需要根据具体语境理解。,Commonsense
+下列短语中，是定中短语的是,打扫干净 ,操作方法,张华同学,已经完成 ,B,L,Logical 短语结构分析,Logical

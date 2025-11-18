@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,Which of the following belong to metastatic calcification,Interstitial calcification of lung,Calcification of tuberculosis foci,Calcification of Congee tumor,Thrombotic calcification,A,L,Logical,
+1,"When the anesthesia plane reaches the navel, the corresponding spinal ganglion segment is",T12,T8,T10,T6,C,L,Logical,
+2,What are the common sites of gastric cancer,Anterior wall of stomach,Gastric antrum,Posterior wall of stomach,fundus of stomach,B,C,Commonsense,
+3,What are the local anesthetics suitable for labor analgesia,Bupivacaine,Procaine,Tetracaine,Lidocaine,A,C,Commonsense,
+4,The key indicators for distinguishing primary hypothyroidism from secondary hypothyroidism are,rT3,T4,T3,TSH,D,L,Logical,

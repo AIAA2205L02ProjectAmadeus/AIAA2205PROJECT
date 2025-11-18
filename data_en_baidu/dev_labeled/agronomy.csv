@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,Which part of the beef carcass has better meat quality after slaughter,chest,abdomen,thigh,calf,C,C,Commonsense,
+1,Which of the following duck breeds has the highest egg production,Gaoyou Duck,Peking duck,Cherry Valley Duck,Shao Duck,D,Q,Quantitative,
+2,What is the common occurrence in livestock where the vas deferens does not form a vas deferens ampulla,horse,pig,cattle,sheep,B,C,Commonsense,
+3,The average estrus cycle of cattle is,16-17 days,21 days,28 days,19-20 days,B,Q,Quantitative,
+4,The parts of the sheep carcass with better meat quality are,Underworld meat,Scapular flesh,hind leg meat,calf meat,C,C,Commonsense,

@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+SVM在下列那种情况下表现糟糕,以上都不是,线性可分数据,清洗过的数据,含噪声数据与重叠数据点,D,L,Logical/当数据非线性可分时表现较差。,Logical
+从给定的句子、段落中识别人名、组织名的过程称为,命名实体识别,词干提取,新词发现,情感分析,A,L,Commonsense,Logical
+针对“北京 是 中国 的 首都”这一分词后的结果，不经过预处理，可以生成多少个3-gram短语,4,3,5,2,B,Q,Quantitative/可以生成12个3-gram短语。,Quantitative
+统计模式分类问题中，当先验概率未知时，可以使用,最小误判概率准则,最小最大损失准则,N-P判决,最小损失准则,B,Q,Quantitative/基于数据的分类方法,Quantitative
+请选择下面可以应用隐马尔科夫(HMM)模型的选项,所有以上,基因序列数据集,股票市场数据集,电影浏览数据集,A,L,Quantitative/隐马尔科夫模型需要数据统计,Logical

@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,"In the three factor model, if $\ mu-x ^ {(j)}=0.2 j and j=1, 2, 3 $, then $q-x ^ {(2)}=() $.",0.23,0.33,0.03,0.13,A,Q,Quantitative,
+1,"Given that Mr. Wang, who is currently 18 years old, has a probability of 0.95 of surviving for another 10 years and a probability of 0.75 of surviving for another 30 years, the probability of his death before reaching the age of 48 at the age of 28 is ().",0.2409,0.2503,0.2308,0.2105,D,Q,Quantitative,
+2,"The number of car accidents within a year follows a mixed Poisson distribution, and the parameter $\ lambda $follows a uniform distribution on $(0,6) $. So, the probability that the car will have no more than one accident within a year is ().",0.41,0.39,0.33,0.37,C,Q,Quantitative,
+3,"Given $S (x)=1- \ frac {x} {100}, 0 \ leqslant x \ leqslant 100 $, then $f_ {30}=(\ quad) $.",0.8,0.7,0.5,0.6,C,Q,Quantitative,
+4,"Given that ${} _2 p2 {10}=0.4 $, and $\ mu_x=0.01+b x, x \ geqslant 0 $, then $b $is equal to $(\ quad $).",-0.05,-0.014,0.005,0.014,D,Q,Quantitative,

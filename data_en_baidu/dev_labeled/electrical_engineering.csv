@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,"When both the trip command and the closing command are present, it should be ensured that",trip,motionless,continuous action,close the circuit,A,L,Logical,
+1,The effect of force on an object is,rotate,Work hard,Translation and Rotation,move,C,C,Commonsense,
+2,The slope of the oil pipe connected to the transformer gas relay is,1%-5%,13%,2%-4%,5%,C,Q,Quantitative,
+3,The primary coil of the current transformer in the clamp ammeter.,none,There are 5 turns,There are 3 turns,There is 1 turn,A,L,Logical,
+4,"The higher the silicon content in silicon steel sheets, the greater their plasticity",The smaller,Not necessarily changing,The bigger,unchanged,A,Q,Quantitative,

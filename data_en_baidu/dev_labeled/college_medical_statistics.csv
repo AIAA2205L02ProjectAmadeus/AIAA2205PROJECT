@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,"Only the incidence rate data of each age group are available, and the standardized incidence rate is calculated by () method.",Reverse search method,indirect method,direct method,Proportional method,C,Q,Quantitative,
+1,The indirect standardization method calculates the standardized mortality rate as follows:,SIR multiplied by the total standard population,SMR x standard population mortality rate,SIR x standard population mortality rate,SMR x total standard population,B,Q,Quantitative,
+2,Sampling error is caused by:,Inaccurate sampling results may cause,Measurement caused,Calculation caused,Sampling induced,D,Q,Quantitative,
+3,SMR is:,Expected number of deaths/actual number of deaths,Expected incidence/actual incidence,Actual incidence/expected incidence,Actual number of deaths/expected number of deaths,D,L,Logical,
+4,"Observe which diseases are the main causes of death for local residents, and use",mortality rate,Disease specific mortality rate,Mortality rate of a certain disease,proportionate mortality ratio,D,C,Commonsense,

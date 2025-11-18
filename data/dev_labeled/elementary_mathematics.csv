@@ -1,0 +1,6 @@
+Question,A,B,C,D,Answer,Category,ModelResponse,Category_raw
+下列算式中，结果与 不相等的是,0.2÷0.5 ,4÷10,16÷40 ,20÷500 ,D,Q,Quantitative 解释: 涉及比较数学运算结果,Quantitative
+"集合A={1，2,3, 4}的真⼦集个数为",14,10,11,15,D,Q,Quantitative/计算集合A的真子集个数,Quantitative
+当X=[ ]时，5X-9=51,60,8.4,12,1,C,Q,Quantitative/解数学方程,Quantitative
+下⾯的数与0最接近的⼀个数是,-1,-5,+5,+2,A,Q,Quantitative,Quantitative
+做⼀个圆柱形通⻛管要⽤多少铁⽪是求,表⾯积,底⾯积 ,体积 ,侧⾯积 ,D,Q,Quantitative/计算所需铁皮面积,Quantitative

@@ -1,0 +1,6 @@
+Unnamed: 0,Question,A,B,C,D,Answer,Category,Category_raw,ModelResponse
+0,"If f (x) is monotonically bounded within (a, b), then the type of discontinuity of f (x) within (a, b) can only be ()",The first type of breakpoint,There are both the first and second types of breakpoints,The conclusion is uncertain,The second type of breakpoint,A,L,Logical,
+1,The number of interruptible points for the function $f (x)=\ frac {x-x ^ 3} {\ sin \ pi x} $is,one,An infinite number of,three,two,C,Q,Quantitative,
+2,"If the derivative of $f (x) $is $2 ^ x (\ ln 2) ^ 2 $, then $f (x) $is ()",$\frac{1}{\ln 2} \cdot 2^x+C$,$2^x(\ln 2)^2+C$,$2^x+C$,$2^x \ln 2+C$,D,Q,Quantitative,
+3,"If f (x) and F (x) are the probability density and distribution function of a continuous random variable X, which of the following functions can be used as the probability density of a random variable (Multiple Choice)",f(-x),f(x)F(x),f(2x),2xf(x^2),A,Q,Quantitative,
+4,"If $f (x) $is an even function and $\ varphi (x) $is an odd function, then which of the following functions (assuming they all make sense) is an odd function",$f[f(x)]$,$\varphi[\varphi(x)]$,$\varphi[f(x)]$,$f[\varphi(x)]$,B,L,Logical,
